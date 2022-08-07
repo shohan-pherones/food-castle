@@ -47,7 +47,7 @@ Gluten-free
 Lactose-free
 Keto
 Paleo
-Low FODMAP
+Low FOODMAP
 Kid-friendly
 
 ### Sample meals
